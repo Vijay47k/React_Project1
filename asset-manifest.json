@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/React_Project1/static/css/main.3992a2f6.css",
+    "main.js": "/React_Project1/static/js/main.2da0091d.js",
+    "static/media/switzerland.jpg": "/React_Project1/static/media/switzerland.3dd7c40eee41d7a34c66.jpg",
+    "static/media/placedata 2.jpg": "/React_Project1/static/media/placedata 2.cd5c6d4f6536aea23019.jpg",
+    "static/media/placedata 6.jpg": "/React_Project1/static/media/placedata 6.8f5d0410f2976559a04e.jpg",
+    "static/media/Hero.jpg": "/React_Project1/static/media/Hero.1559ff88da57d4a48dd5.jpg",
+    "static/media/placedata 1.jpg": "/React_Project1/static/media/placedata 1.ac1977a0675f6aa44329.jpg",
+    "static/media/placedata 9.jpg": "/React_Project1/static/media/placedata 9.a0111f665bc4868efe43.jpg",
+    "static/media/ladakh.jpg": "/React_Project1/static/media/ladakh.581078d3cb48141b3def.jpg",
+    "static/media/placedata 5.jpg": "/React_Project1/static/media/placedata 5.0f6226af9922dcded3e1.jpg",
+    "static/media/place2.jpg": "/React_Project1/static/media/place2.8a239ec2f6608b591f6d.jpg",
+    "static/media/placedata 3.jpg": "/React_Project1/static/media/placedata 3.74b6f3bd83608e8f4e9c.jpg",
+    "static/media/placedata 4.jpg": "/React_Project1/static/media/placedata 4.86203372ab86721104b3.jpg",
+    "static/media/placedata 8.jpg": "/React_Project1/static/media/placedata 8.19839a982917e1d5d84f.jpg",
+    "static/media/placedata 7.jpg": "/React_Project1/static/media/placedata 7.561c2fb9f9478d115659.jpg",
+    "static/media/place1.jpg": "/React_Project1/static/media/place1.df842efcc78699b9ead0.jpg",
+    "static/media/construction2.gif": "/React_Project1/static/media/construction2.e4c21021595142d16a6a.gif",
+    "static/media/construction3.gif": "/React_Project1/static/media/construction3.6bb4c75f981b34fef8e9.gif",
+    "static/media/dawki.jpg": "/React_Project1/static/media/dawki.5aa8c951b99e3252b377.jpg",
+    "static/media/Destination6.jpg": "/React_Project1/static/media/Destination6.a4b4b1a2fe5e7c35822a.jpg",
+    "static/media/underConstruction.gif": "/React_Project1/static/media/underConstruction.fa630d1041d462b5fd94.gif",
+    "static/media/Destination5.png": "/React_Project1/static/media/Destination5.8db742a0db2114f7116a.png",
+    "static/media/Destination2.png": "/React_Project1/static/media/Destination2.64eec9804e3149d26787.png",
+    "static/media/logo.png": "/React_Project1/static/media/logo.2638a75d0801e0b2f136.png",
+    "static/media/Destination1.png": "/React_Project1/static/media/Destination1.b43b40ebcae365ec1bcf.png",
+    "static/media/Destination4.png": "/React_Project1/static/media/Destination4.c19a433ba2f75f2cd33b.png",
+    "static/media/Destination3.png": "/React_Project1/static/media/Destination3.b4028caa98dffd19d08e.png",
+    "static/media/customer-1.jpg": "/React_Project1/static/media/customer-1.5f7c33050f0adf3deb2f.jpg",
+    "static/media/customer-2.jpg": "/React_Project1/static/media/customer-2.9e875988f52ef8d8a113.jpg",
+    "static/media/customer-3.jpg": "/React_Project1/static/media/customer-3.27519a276c18b9f107c9.jpg",
+    "index.html": "/React_Project1/index.html",
+    "main.3992a2f6.css.map": "/React_Project1/static/css/main.3992a2f6.css.map",
+    "main.2da0091d.js.map": "/React_Project1/static/js/main.2da0091d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3992a2f6.css",
+    "static/js/main.2da0091d.js"
+  ]
+}
